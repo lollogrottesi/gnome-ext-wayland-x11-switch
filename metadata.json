@@ -1,0 +1,8 @@
+{
+  "name": "Session-type",
+  "description": "Current windowing system",
+  "uuid": "session.type@shell.gnome.org",
+  "shell-version": [
+    "43"
+  ]
+}
